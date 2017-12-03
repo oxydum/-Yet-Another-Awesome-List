@@ -1,6 +1,25 @@
 # -Yet-Another-Awesome-List
 Curated list of awesome lists
 
+## Contents
+
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Computer Science](#computer-science)
+- [Android](#android)
+- [Open Source](#open-source)
+- [Editors](#editors)
+- [Databases](#databases)
+- [Media](#media)
+- [Learn](#learn)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Miscellaneous](#miscellaneous)
+
+
+## Platforms
+
 ## awesome-awesomes
 
 - [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
