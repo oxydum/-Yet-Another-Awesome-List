@@ -5,7 +5,7 @@ Curated list of awesome lists
 
 - [Search](#search)
 - [Platforms](#platforms)
-- {Algorithms](#Algorithms)
+- [Algorithms](#Algorithms)
 - [Programming Languages](#programming-languages)
 - [Computer Science](#computer-science)
 - [Android](#android)
