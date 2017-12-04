@@ -46,6 +46,7 @@ Curated list of awesome lists
 
 ## React
 
+* [react](https://reactjs.org/)
 * [redux](https://redux.js.org/)
 
 ## Scala
