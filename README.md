@@ -7,7 +7,7 @@ Curated list of awesome lists
 - [Platforms](#platforms)
 - [Algorithms](#Algorithms)
 - [Programming Languages](#programming-languages)
-- [Scala.js](#Scala.js)
+- [Scala.js](#Scala)
 - [Computer Science](#computer-science)
 - [Android](#android)
 - [Open Source](#open-source)
@@ -43,7 +43,7 @@ Curated list of awesome lists
 * Python
 * AHK
 
-## Scala.js
+## Scala
 - [scala.js](https://www.scala-js.org/)
 - [scalafiddle](https://scalafiddle.io/) Test Fiddle
 - [scala libs](https://www.scala-js.org/libraries/facades.html) Libraries
