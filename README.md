@@ -5,6 +5,7 @@ Curated list of awesome lists
 
 - [Search](#search)
 - [Platforms](#platforms)
+- {Algorithms](#Algorithms)
 - [Programming Languages](#programming-languages)
 - [Computer Science](#computer-science)
 - [Android](#android)
@@ -25,6 +26,23 @@ Curated list of awesome lists
 
 ## Platforms
 
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* Android
+* Electron
+* React
+* React-Native
+* IOT, Arduino, Raspberry Pi
+
+## Algorithms
+
+
+## Programming Languages
+
+* Javascript
+* Python
+* AHK
+
+
 ## awesome-awesomes
 
 - [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
@@ -36,7 +54,6 @@ Curated list of awesome lists
 - [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
 - [@jnv/lists](https://github.com/jnv/lists)
 - [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
-- [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 - [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
 
 
