@@ -42,6 +42,8 @@ Curated list of awesome lists
 * Python
 * AHK
 
+## Scala.js
+- [scala.js](https://www.scala-js.org/) Scala.js
 
 ## awesome-awesomes
 
