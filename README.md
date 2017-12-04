@@ -7,6 +7,7 @@ Curated list of awesome lists
 - [Platforms](#platforms)
 - [Algorithms](#Algorithms)
 - [Programming Languages](#programming-languages)
+- [Scala.js](#scala)
 - [Computer Science](#computer-science)
 - [Android](#android)
 - [Open Source](#open-source)
