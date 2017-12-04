@@ -1,4 +1,4 @@
-# -Yet-Another-Awesome-List
+# Yet-Another-Awesome-List
 Curated list of awesome lists
 
 ## Contents
