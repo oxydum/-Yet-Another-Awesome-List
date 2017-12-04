@@ -7,6 +7,7 @@ Curated list of awesome lists
 - [Platforms](#platforms)
 - [Algorithms](#algorithms)
 - [Programming Languages](#programming-languages)
+- [React](#react)
 - [Scala.js](#scala)
 - [Computer Science](#computer-science)
 - [Android](#android)
@@ -42,6 +43,10 @@ Curated list of awesome lists
 * Javascript
 * Python
 * AHK
+
+## React
+
+[redux](https://redux.js.org/)
 
 ## Scala
 
