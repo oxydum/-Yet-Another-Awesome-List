@@ -10,6 +10,7 @@ Curated list of awesome lists
 - [React](#react)
 - [Scala.js](#scala)
 - [Computer Science](#computer-science)
+- [Python](#python)
 - [Android](#android)
 - [Open Source](#open-source)
 - [Editors](#editors)
@@ -54,6 +55,10 @@ Curated list of awesome lists
 * [scala.js](https://www.scala-js.org/)
 * [scalafiddle](https://scalafiddle.io/) Test Fiddle
 * [scala libs](https://www.scala-js.org/libraries/facades.html) Libraries
+
+## Python
+
+* [Flask](http://flask.pocoo.org/)
 
 ## awesome-awesomes
 
