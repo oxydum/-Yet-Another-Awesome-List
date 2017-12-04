@@ -3,6 +3,7 @@ Curated list of awesome lists
 
 ## Contents
 
+- [Search](#search)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Computer Science](#computer-science)
@@ -17,6 +18,10 @@ Curated list of awesome lists
 - [Networking](#networking)
 - [Miscellaneous](#miscellaneous)
 
+##Search
+
+* [Google](https://www.google.com/) – Search Google
+* [Qwant](https://www.qwant.com/ - Qwant
 
 ## Platforms
 
