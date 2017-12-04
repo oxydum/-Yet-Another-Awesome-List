@@ -46,7 +46,7 @@ Curated list of awesome lists
 
 ## React
 
-[redux](https://redux.js.org/)
+* [redux](https://redux.js.org/)
 
 ## Scala
 
@@ -56,16 +56,16 @@ Curated list of awesome lists
 
 ## awesome-awesomes
 
-- [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [@bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
-- [@emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [@erichs/awesome-awesome](https://github.com/erichs/awesome-awesome)
-- [@oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
-- [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
-- [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
-- [@jnv/lists](https://github.com/jnv/lists)
-- [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
-- [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
+* [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [@bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
+* [@emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [@erichs/awesome-awesome](https://github.com/erichs/awesome-awesome)
+* [@oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
+* [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
+* [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
+* [@jnv/lists](https://github.com/jnv/lists)
+* [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+* [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
 
 
 ## License
