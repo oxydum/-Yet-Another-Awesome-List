@@ -43,7 +43,9 @@ Curated list of awesome lists
 * AHK
 
 ## Scala.js
-- [scala.js](https://www.scala-js.org/) Scala.js
+- [scala.js](https://www.scala-js.org/)
+- [scalafiddle](https://scalafiddle.io/) Test Fiddle
+- [scala libs](https://www.scala-js.org/libraries/facades.html) Libraries
 
 ## awesome-awesomes
 
