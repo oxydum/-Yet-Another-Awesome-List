@@ -21,7 +21,7 @@ Curated list of awesome lists
 ##Search
 
 * [Google](https://www.google.com/) – Search Google
-* [Qwant](https://www.qwant.com/ - Qwant
+* [Qwant](https://www.qwant.com/) - Qwant
 
 ## Platforms
 
