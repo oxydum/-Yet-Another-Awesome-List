@@ -48,6 +48,7 @@ Curated list of awesome lists
 ## React
 
 * [react](https://reactjs.org/)
+* [awesome react native](http://www.awesome-react-native.com/)
 * [redux](https://redux.js.org/)
 * [awesome redux](https://github.com/xgrommx/awesome-redux)
 
