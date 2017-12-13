@@ -49,6 +49,7 @@ Curated list of awesome lists
 
 * [react](https://reactjs.org/)
 * [redux](https://redux.js.org/)
+* [awesome redux](https://github.com/xgrommx/awesome-redux)
 
 ## Scala
 
