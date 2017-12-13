@@ -61,6 +61,9 @@ Curated list of awesome lists
 
 * [Flask](http://flask.pocoo.org/)
 
+## Miscellaneous
+* [feather](https://feathersjs.com/)
+
 ## awesome-awesomes
 
 * [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
