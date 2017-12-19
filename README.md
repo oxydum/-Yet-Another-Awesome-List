@@ -62,6 +62,7 @@ Curated list of awesome lists
 ## Python
 
 * [Flask](http://flask.pocoo.org/)
+* [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Miscellaneous
 * [feather](https://feathersjs.com/)
