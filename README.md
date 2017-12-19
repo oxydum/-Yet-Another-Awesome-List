@@ -65,6 +65,7 @@ Curated list of awesome lists
 
 ## Miscellaneous
 * [feather](https://feathersjs.com/)
+* [strapi](https://strapi.io/) API Framework
 
 ## awesome-awesomes
 
